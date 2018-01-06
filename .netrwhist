@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/avdao1/repos/axp-activity/locale/en-US/links'
+let g:netrw_dirhist_2='/Users/avdao1/repos/axp-activity'
+let g:netrw_dirhist_3='/Users/avdao1/repos/axp-activity/locale'
+let g:netrw_dirhist_4='/Users/avdao1/repos/axp-activity/locale/en-US'
+let g:netrw_dirhist_5='/Users/avdao1/repos/axp-activity/locale/en-US/links'
+let g:netrw_dirhist_6='/Users/avdao1/repos/axp-activity-react-16'
